@@ -1,0 +1,2 @@
+# ScrapTok
+TikTok alternative frontend
